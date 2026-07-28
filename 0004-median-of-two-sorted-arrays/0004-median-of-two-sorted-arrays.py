@@ -6,7 +6,7 @@ class Solution:
         n=len(sorted_list)
         if n%2==1: # odd lenght 
             return float(sorted_list[n//2])
-        # we will not write conditon of even insted we use else
+        
         else:
             return float(sorted_list[n//2-1]+sorted_list[n//2])/2
 
