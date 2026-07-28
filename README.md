@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arjit005/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arjit005/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
