@@ -13,8 +13,8 @@ class Solution:
                 return
             if open_bracket<n:
                 dfs(current+"(",open_bracket+1,close_bracket)
-            if close_bracket <open_bracket:
+            if close_bracket <open_bracket:#number of ) can never be greater than the number of (.
                 dfs(current+")",open_bracket,close_bracket+1)
-        dfs("",0,0)
+        dfs("",0,0) # starting point of tree
         return output
             
