@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Arjit005/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arjit005/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arjit005/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -92,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arjit005/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
