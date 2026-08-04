@@ -12,6 +12,6 @@ class Solution:
             if i not in nums:
                 result.append(i)
             
-        result.sort()
+        #result.sort() it don't need beacuse loop is already appending in sorted order
         return result         
 
