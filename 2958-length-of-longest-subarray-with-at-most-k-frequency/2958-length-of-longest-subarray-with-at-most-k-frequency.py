@@ -217,3 +217,30 @@ class Solution:
         """
 
         return max_len
+
+"""
+SUBARRAY
+   ↓
+Need a continuous region
+   ↓
+WINDOW
+[ left ........ right ]
+   ↑               ↑
+ left            right
+   ↓               ↓
+shrink          expand
+   ↓               ↓
+remove          add
+element         element
+   ↓               ↓
+      COUNTER
+         ↓
+Does any frequency exceed k?
+         ↓
+      YES → shrink
+      NO  → valid
+              ↓
+        measure length
+              ↓
+          max_len
+"""
