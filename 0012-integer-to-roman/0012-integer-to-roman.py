@@ -42,6 +42,9 @@ class Solution:
         3. Subtract that value from num
         4. Repeat
         """
+        #A greedy algorithm means:
+
+        # At each step, make the best/largest choice available right now, without reconsidering previous choices.
 
         roman = ""  # We use a string to build the answer
 
@@ -50,7 +53,7 @@ class Solution:
 
             # Keep using the current value
             # as long as it fits in num.
-            while num >= value:
+            while num >= value:  #Try the largest possible value first.
 
                 # Add the Roman symbol corresponding to the value
                 roman += symbol[value]
