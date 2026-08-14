@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Arjit005/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Arjit005/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Arjit005/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Arjit005/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arjit005/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Arjit005/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjit005/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Arjit005/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arjit005/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arjit005/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Arjit005/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arjit005/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
