@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arjit005/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Arjit005/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0238-product-of-array-except-self](https://github.com/Arjit005/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Arjit005/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
