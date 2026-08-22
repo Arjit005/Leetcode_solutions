@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Arjit005/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arjit005/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0133-clone-graph](https://github.com/Arjit005/Leetcode_solutions/tree/master/0133-clone-graph) |
 | [1386-cinema-seat-allocation](https://github.com/Arjit005/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arjit005/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -221,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arjit005/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Arjit005/Leetcode_solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Arjit005/Leetcode_solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Arjit005/Leetcode_solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
