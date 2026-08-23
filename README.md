@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arjit005/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arjit005/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Arjit005/Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Arjit005/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Arjit005/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Arjit005/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arjit005/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Arjit005/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
