@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Arjit005/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Arjit005/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Arjit005/Leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/Arjit005/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arjit005/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Arjit005/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Arjit005/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/Arjit005/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Arjit005/Leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arjit005/Leetcode_solutions/tree/master/2029-stone-game-ix) |
